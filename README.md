@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with ... projects in data analytics that I can put on my resume.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn] www.linkedin.com/in/alexsosa1823
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: .. I coach football
