@@ -1,9 +1,9 @@
 ### Here is what I am working on!
 
-
-- 🔭 I’m currently working on ... getting an entry level role in Information Technology
-- 🌱 I’m currently learning ... AWS data Analytics 
-- 🤔 I’m looking for help with ... projects in data analytics that I can put on my resume.
+- 🔭 I'm currently seeking an entry level position in Information Technology.  
+- 🔭 I’m currently working on ... Projects that showcase my skills as a Data Analyst.
+- 🌱 I’m currently learning ... AWS data analyatics.
+- 🤔 I’m looking for help with ... good learning resources and projects to help expand my knoledge in Information Technology.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn] www.linkedin.com/in/alexsosa1823
 - ⚡ Fun fact: .. I coach football
